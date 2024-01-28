@@ -1,0 +1,38 @@
+#center {
+    text-align: center;
+}
+
+.title {
+    font-weight:bold;
+}
+
+.title.top{
+    font-size: 48px;
+}
+
+div img {
+    width: 500px;
+    height: auto;
+}
+
+.title.description{
+    background-color: white;
+    color: blue;
+}
+
+.description {
+    background-color: lightblue;
+}
+
+ul li {
+    background-color: lightgrey;
+}
+
+.title.steps {
+    background-color: white;
+    color: red;
+}
+
+ol li {
+    background-color: pink;
+}
