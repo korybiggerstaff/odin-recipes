@@ -26,10 +26,12 @@ div img {
 
 .description {
     background-color: lightblue;
+    width: fit-content;
 }
 
 ul li {
     background-color: lightgrey;
+    width: fit-content;
 }
 
 .title.steps {
@@ -39,4 +41,5 @@ ul li {
 
 ol li {
     background-color: pink;
+    width:fit-content
 }
