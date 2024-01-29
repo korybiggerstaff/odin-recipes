@@ -10,6 +10,12 @@
     font-weight:bold;
 }
 
+.card {
+    border: 2px solid;
+    margin: 16px 25%;
+    padding: 8px;
+}
+
 .title.top{
     font-size: 48px;
 }
@@ -19,29 +25,21 @@ div img {
     height: auto;
 }
 
-.title.description{
-    background-color: white;
-    color: blue;
-}
-
-.description {
+div.description {
     background-color: lightblue;
-    width: fit-content;
 }
 
-ul li {
+div.ingredients {
     background-color: lightgrey;
-    width: fit-content;
+    border-color: black;
 }
 
-.title.steps {
-    background-color: white;
-    color: red;
-}
-
-ol li {
+div.steps{
     background-color: pink;
-    width:fit-content
+    width:fit-content;
+    margin: 16px 25%;
+    border-color: red;
+    text-align:justify
 }
 
 div.back {
