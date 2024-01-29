@@ -43,3 +43,16 @@ ol li {
     background-color: pink;
     width:fit-content
 }
+
+div.back {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(58, 92, 155);
+    color: white;
+    border: 2px solid black;
+    margin: 0 35%;
+}
+
+a:visited {
+    color: inherit
+}
